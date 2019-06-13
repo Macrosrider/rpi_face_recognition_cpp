@@ -5,7 +5,7 @@ faces of different people with Raspberry Pi. Second task was to check, how slow
 cv2-wrapper for Python is and is it better to choose C++ instead of Python, when
 we need maximum performance?
 
-The result of research and all achievements you can read on this repo's Wiki.
+The result of research and all achievements you can read on this repo's __[Wiki]__(https://github.com/Macrosrider/rpi_face_recognition_cpp/wiki "Wiki").
 
 ## Requirements
 To run this sample of code, the following packages should be installed on your
