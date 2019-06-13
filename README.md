@@ -29,6 +29,7 @@ compile this parts:
 
     make recognize
 Or:
+
     make train
 
 Train part of the program extracts face embeddings from photos of your dataset.
@@ -61,3 +62,6 @@ project
     |   embeddings.xml
     |   labels.txt
 ```
+
+After forming dataset simply run train to extract embeddings and after process
+finish run recognizer.
